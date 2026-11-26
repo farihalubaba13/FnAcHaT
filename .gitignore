@@ -1,0 +1,19 @@
+# Compiled Files
+*.exe
+*.o
+*.obj
+FNA_Chat
+
+# Code::Blocks Files
+bin/
+obj/
+*.cbp
+*.layout
+*.depend
+
+# Data files created by the program (Personal Data)
+users.txt
+messages.txt
+groups.txt
+backup_users.txt
+email_outbox.txt
