@@ -112,6 +112,7 @@ The whole program is in one file. Inside, it is divided into sections: colors, i
 
 ## Academic Information
 
-- **Course:** Data Structure (CSE 221)
+- **Course Title:** Data Structure
+- **Course:** CSE 221
 - **Year:** 2nd Year
 - **Semester:** 1st Semester
