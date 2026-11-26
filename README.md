@@ -113,6 +113,6 @@ The whole program is in one file. Inside, it is divided into sections: colors, i
 ## Academic Information
 
 - **Course Title:** Data Structure
-- **Course:** CSE 221
+- **Course Code:** CSE 221
 - **Year:** 2nd Year
 - **Semester:** 1st Semester
