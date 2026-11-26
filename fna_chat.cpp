@@ -1995,7 +1995,7 @@ void viewInbox(){
 
     // Add options for message management
     setColor(BRIGHT_YELLOW);
-    cout << "\n ┌─────────────────────────────────────┐\n";
+    cout << "\n   ┌─────────────────────────────────────┐\n";
     cout << "   │  Options:                           │\n";
     cout << "   │  1. Mark message as read            │\n";
     cout << "   │  2. Mark message as unread          │\n";
@@ -2464,13 +2464,13 @@ NavAction adminRemoveFriend(){
 
     while (true) {
         setColor(BRIGHT_CYAN);
-        cout << "\n ╔════════════════════════════════════════════════╗\n";
+        cout << "\n   ╔════════════════════════════════════════════════╗\n";
         cout << "   ║     ADMIN: FRIEND MANAGEMENT (Super Mode)      ║\n";
         cout << "   ╚════════════════════════════════════════════════╝\n";
         resetColor();
 
         setColor(BRIGHT_YELLOW);
-        cout << "\n ┌─────────────────────────────────────┐\n";
+        cout << "\n   ┌─────────────────────────────────────┐\n";
         cout << "   │  1. Remove your OWN friend          │\n";
         cout << "   │  2. Remove friend from OTHER user   │\n";
         cout << "   │  3. Back to Admin Panel             │\n";
@@ -2676,7 +2676,7 @@ void adminPanel(){
             continue;
         } else if(choice == 4){
             setColor(BRIGHT_CYAN);
-            cout << "\n ╔══════════════════════════════════════╗\n";
+            cout << "\n   ╔══════════════════════════════════════╗\n";
             cout << "   ║         SYSTEM STATISTICS            ║\n";
             cout << "   ╚══════════════════════════════════════╝\n";
             resetColor();
